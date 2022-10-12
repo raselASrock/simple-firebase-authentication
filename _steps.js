@@ -11,4 +11,6 @@
 10. go to firebase > Build > Authentication > Sign in Method
 11. Enable google sign in method
 12. create a button for google sign in method.
+13. inside the event handler, call signInWithPopUp with auth and provider
+14. after signInWithPopUp .then result, error
 */
