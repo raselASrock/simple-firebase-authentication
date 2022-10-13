@@ -13,4 +13,9 @@
 12. create a button for google sign in method.
 13. inside the event handler, call signInWithPopUp with auth and provider
 14. after signInWithPopUp .then result, error
+------------------------
+Add a new sign in method
+--------------------------
+1. enable the sign in method
+2. 
 */
