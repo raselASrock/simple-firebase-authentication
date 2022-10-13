@@ -17,5 +17,6 @@
 Add a new sign in method
 --------------------------
 1. enable the sign in method
-2. 
+2. create github, twiteer,fb, insta etc.  app create 
+3. get client id and secret
 */
